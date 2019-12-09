@@ -5,6 +5,7 @@ A collection of awesome Mage and Magefile resources
 ### Articles about Mage:
 + [Make Your Build Better With Mage](https://blog.gopheracademy.com/advent-2017/mage/)
 + [Mage - make/rake for Go](https://npf.io/2018/09/mage/)
++ [Mage in CI](https://magefile.org/blog/2018/09/mage-in-ci/)
 + [Best Practices for Using Mage To Build Your Project](https://blog.gopheracademy.com/advent-2018/mage-best-practices/)
 + [Retooling Retool](https://npf.io/2019/05/retooling-retool/)
 
