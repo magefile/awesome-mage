@@ -17,7 +17,7 @@ A collection of awesome Mage and Magefile resources
 
 ### Projects Using Mage:
 + [Elastic Beats](https://github.com/elastic/beats/) - Lightweight shippers for Elasticsearch & Logstash
-+ [Go Sparta](github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
++ [Go Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 + [Gnormal](https://github.com/gnormal/gnorm) 324
 + [Hugo](https://github.com/gohugoio/hugo/) - Static Site Generator
 + [Microsoft Cobalt](https://github.com/microsoft/cobalt) - Infrastructure turn-key solution for app service workloads
