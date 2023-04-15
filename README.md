@@ -8,6 +8,7 @@ A collection of awesome Mage and Magefile resources
 + [Mage in CI](https://magefile.org/blog/2018/09/mage-in-ci/)
 + [Best Practices for Using Mage To Build Your Project](https://blog.gopheracademy.com/advent-2018/mage-best-practices/)
 + [Retooling Retool](https://npf.io/2019/05/retooling-retool/)
++ [Translating a Makefile to a Magefile](https://universalglue.dev/posts/magefile/)
 
 ### Articles Mentioning Using Mage:
 + [Implement Capistrano/SSHKit in Golang](https://medium.com/@zhimin.wen/implement-capistrano-sshkit-in-golang-32d8d094e65d)
