@@ -32,6 +32,7 @@ A collection of awesome Mage and Magefile resources
 + [repoman](https://github.com/cabify/repoman) - Repository Manager Support Package.
 
 ### Mage Helpers and Examples
++ [uwu-tools/magex](https://github.com/uwu-tools/magex) - Helper methods for magefiles
 + [Beats Mage Helpers](https://github.com/elastic/beats/tree/master/dev-tools/mage) - Extensive and well maintained helpers for many purposes.
 + [repoman](https://github.com/cabify/repoman) - Repository Manager Support Package, grouping and syncing repositories
 + [mage-loot](https://github.com/aserto-dev/mage-loot) - Mage dependency management using `Depfile`, and helper functions for `buf`, `protoc`, linting, code-gen, and others
